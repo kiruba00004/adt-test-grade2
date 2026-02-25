@@ -1,0 +1,218 @@
+{
+  "Dawn": {
+    "word": "Dawn",
+    "definition": "A very early time in the morning; the time before/around the sun fully rises.",
+    "variations": [
+      "அதிகாலையில்",
+      "அதிகாலை நேரம்"
+    ],
+    "emoji": "🌅⏰"
+  },
+  "Neighbour": {
+    "word": "Neighbour",
+    "definition": "The next-door people living nearby / people in the vicinity.",
+    "variations": [
+      "அயலவர்கள்",
+      "அயலவர்களுக்கும்",
+      "அயலவர்"
+    ],
+    "emoji": "🏘️🤝"
+  },
+  "God": {
+    "word": "God",
+    "definition": "God.",
+    "variations": [
+      "இறைவனை",
+      "இறைவன்",
+      "இறைவனிடம்"
+    ],
+    "emoji": "🙏✨"
+  },
+  "Spending": {
+    "word": "Spending",
+    "definition": "Spending time or the day in a particular way.",
+    "variations": [
+      "கழிப்போம்",
+      "கழித்தல்",
+      "கழித்தோம்"
+    ],
+    "emoji": "🕰️📅"
+  },
+  "Celebrating": {
+    "word": "Celebrating",
+    "definition": "Conducting a festival or special day happily.",
+    "variations": [
+      "கொண்டாடுவோம்",
+      "கொண்டாடுதல்",
+      "கொண்டாடுகிறோம்"
+    ],
+    "emoji": "🥳🎈"
+  },
+  "Temple": {
+    "word": "Temple",
+    "definition": "A place where God is worshipped.",
+    "variations": [
+      "கோயிலுக்கு",
+      "கோயில்",
+      "கோயிலில்"
+    ],
+    "emoji": "🛕🙏"
+  },
+  "Month of Chithirai": {
+    "word": "Month of Chithirai",
+    "definition": "The month called ‘Chithirai’, which is one among the Tamil months.",
+    "variations": [
+      "சித்திரை",
+      "சித்திரைமாதம்"
+    ],
+    "emoji": "📆🌞"
+  },
+  "Chithirai New Year": {
+    "word": "Chithirai New Year",
+    "definition": "The Tamil New Year celebration that comes in the month of Chithirai.",
+    "variations": [
+      "சித்திரை புத்தாண்டு",
+      "சித்திரைப் புத்தாண்டு நாள்",
+      "புத்தாண்டு",
+      "புதுவருடம்"
+    ],
+    "emoji": "🎉📅"
+  },
+  "Sleep": {
+    "word": "Sleep",
+    "definition": "Sleep.",
+    "variations": [
+      "நித்திரைவிட்டு",
+      "நித்திரை விடுதல்",
+      "நித்திரை"
+    ],
+    "emoji": "😴🛌"
+  },
+  "Bathing": {
+    "word": "Bathing",
+    "definition": "Bathing the body; having a bath.",
+    "variations": [
+      "நீராடுவோம்",
+      "நீராடுதல்",
+      "நீராடு"
+    ],
+    "emoji": "🚿🧼"
+  },
+  "Serving": {
+    "word": "Serving",
+    "definition": "Placing and offering food to others.",
+    "variations": [
+      "பரிமாறி",
+      "பரிமாறுதல்",
+      "பரிமாறு"
+    ],
+    "emoji": "🍽️🤲"
+  },
+  "New clothes": {
+    "word": "New clothes",
+    "definition": "Clothes newly bought or worn new.",
+    "variations": [
+      "புதிய ஆடை",
+      "புதிய ஆடைகள்",
+      "ஆடைகள்"
+    ],
+    "emoji": "👕👗"
+  },
+  "Puthuvarudam (New Year)": {
+    "word": "Puthuvarudam (New Year)",
+    "definition": "The day/period when a new year begins.",
+    "variations": [
+      "புது வருடம்",
+      "புதுவருடம் நாள்",
+      "புத்தாண்டு"
+    ],
+    "emoji": "🗓️🎊"
+  },
+  "Elders": {
+    "word": "Elders",
+    "definition": "Older people by age; the elderly or seniors.",
+    "variations": [
+      "பெரியோரை",
+      "பெரியவர்கள்",
+      "பெரியோர்"
+    ],
+    "emoji": "👵👴"
+  },
+  "Pongal": {
+    "word": "Pongal",
+    "definition": "A traditional food made so that milk/rice boils in a pot and overflows.",
+    "variations": [
+      "பொங்கல் செய்வோம்",
+      "பொங்கல்",
+      "பொங்கல் செய்தல்"
+    ],
+    "emoji": "🍚🥣"
+  },
+  "Competition": {
+    "word": "Competition",
+    "definition": "A competitive programme to see who does best.",
+    "variations": [
+      "போட்டிகள்",
+      "போட்டி",
+      "போட்டி வைப்போம்"
+    ],
+    "emoji": "🏁🏆"
+  },
+  "Murukku": {
+    "word": "Murukku",
+    "definition": "A snack made from flour and deep-fried in oil.",
+    "variations": [
+      "முறுக்கு",
+      "முறுக்குகள்"
+    ],
+    "emoji": "🍘🧆"
+  },
+  "Modhakam": {
+    "word": "Modhakam",
+    "definition": "A type of sweet made with a sweet filling.",
+    "variations": [
+      "மோதகம்",
+      "மோதகங்கள்"
+    ],
+    "emoji": "🍬🥟"
+  },
+  "Vadai": {
+    "word": "Vadai",
+    "definition": "A round snack made with dhal/flour and deep-fried in oil.",
+    "variations": [
+      "வடை",
+      "வடைகள்"
+    ],
+    "emoji": "🍩🍽️"
+  },
+  "Bowing": {
+    "word": "Bowing",
+    "definition": "Bowing respectfully to offer greetings; to worship.",
+    "variations": [
+      "வணங்குவோம்",
+      "வணங்குதல்",
+      "வணக்கம்"
+    ],
+    "emoji": "🙏🙇"
+  },
+  "Banana": {
+    "word": "Banana",
+    "definition": "A fruit that grows on the banana tree.",
+    "variations": [
+      "வாழைப்பழம்",
+      "வாழைப்பழங்கள்",
+      "பழம்"
+    ],
+    "emoji": "🍌🍎"
+  },
+  "Playing": {
+    "word": "Playing",
+    "definition": "Enjoying by playing games.",
+    "variations": [
+      "விளையாடுவோம்",
+      "விளையாடுதல்",
+      "விளையாடு"
+    ],
+    "emoji": "⚽🎲"
+  }
+}
